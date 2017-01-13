@@ -22,7 +22,7 @@
         <b>Commentaire :</br></b> $commentaire</br></br>
         Cordialement,</br></br>Portail EPAC";
 
-        print ("Je suis un test GitHub");
+        //print ("Je suis un test GitHub");
         $mail = mail($to, $objet, $message, $headers);
 ?>
 </body></html>
