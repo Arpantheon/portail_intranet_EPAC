@@ -1,0 +1,26 @@
+#soustitre
+{
+
+	color:black;
+	font-size: 0.5em;
+    font-family: 'Titillium Web';
+    font-style: italic;
+    font-weight: bold;
+    width: 100%; /* On a indiqué une largeur (obligatoire) */
+    margin: 0; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 5px;
+}
+
+#presentationEPAC
+{
+	color:black;
+	font-size: 1.5em;
+    font-family: 'Titillium Web';
+    width: 100%; /* On a indiqué une largeur (obligatoire) */
+    margin: 0; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+}

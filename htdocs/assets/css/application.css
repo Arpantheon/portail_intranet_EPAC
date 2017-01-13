@@ -1,0 +1,40 @@
+body {
+	/*padding: 0;*/
+	margin: 0;
+    background-color: #D9D1DB; /* Le fond de la page sera noir */
+}
+
+a {
+  color: inherit;
+}
+a:hover {
+	color: grey;
+}
+
+p {
+    color: black;
+    font-size: 1.5em;
+    font-family: 'Titillium Web';
+    width: 100%; /* On a indiqué une largeur (obligatoire) */
+    margin: 0; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 5px;
+}
+
+h1 {
+	color:black;
+	font-size: 3em;
+    font-family: 'Titillium Web';
+    font-weight: bold;
+    width: 100%; /* On a indiqué une largeur (obligatoire) */
+    margin: 0; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 5px;
+
+}
+
+.container {
+	padding: 0 20px
+}

@@ -1,0 +1,14 @@
+1;Contact;15;Toutes informations manquantes ou erronnees concernant le client ou le contact;1
+2;Catégorisation;10;Catégorisation manquante ou éronnée ;1
+3;Résumé;20;Résumé incorrect;1
+4;Source signalée;10;Source signalée manquante ou incorrecte;1
+5;Description de l'incident;30;Description de l'incident manquante ou non explicite;1
+6;Description des manipulations;30;Description des tests et des manipulations manquante ou peu fournie;1
+7;Description de la résolution;30;Description de la résolution absente ou non explicite;1
+8;Oubli PJ;5;Oublie de la pièce jointe;1
+9;Type d'incident;5;Typologie de l'incident de l'incident manquante ou éronnée (Restauration ou demande de service;1
+10;Mise en page du ticket;10;Informations sur le ticket placées au mauvais endroit;1
+11;Qualité rédactionnelle;15;Problème de syntaxe, de grammaire, d'orthographe et/ou de conjugaison;1
+12;Utilisation du modèle;5;Mauvaise utilisation du modèle ou oubli d'utilisation du modèle;1
+13;Impact/urgence;5;Urgence et/ou impact incohérente avec les informations du ticket;1
+14;Numéro de configuration;5;Absence ou mauvais numéro de configuration;1
